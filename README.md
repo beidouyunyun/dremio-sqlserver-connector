@@ -53,5 +53,5 @@ from the template.
 
 1. In root directory with the pom.xml file run `mvn clean install`
 2. Take the resulting .jar file in the target folder and put it in the \dremio\jars folder in Dremio
-3. Take the ShenTong JDBC driver from (dmdbms/drivers/jdbc) and put in in the \dremio\jars\3rdparty folder
+3. Take the ShenTong JDBC driver from (https://download.microsoft.com/download/6/9/9/699205CA-F1F1-4DE9-9335-18546C5C8CBD/sqljdbc_7.4.1.0_enu.tar.gz) and put in in the \dremio\jars\3rdparty folder
 4. Restart Dremio
